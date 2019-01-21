@@ -8,6 +8,7 @@ public class Main {
         pak1 p = new pak1();
         p.pl();
         p.PL();
+        p.ybivai();
 
 
     }
